@@ -1,1 +1,16 @@
 Hello world, I'm Minh! I currently in my second year IXD program. I enjoy design, drawing, and anything that is visual based. My job in UIUX design is to learn about people and enhance their life experience.
+
+ANSWER FOR LAP2 QUESTION:
+
+Which device acts as the client:
+-My laptop and Bob’s → sending request.
+-I’m creating my link by my laptop and it is saved on GitHub server.
+
+
+Which device acts as the server:
+-GitHub’s server hosting the website created from my computer, receiving and processing request from Bob’s computer.
+
+
+Process explain:
+-Bob’s computer (client) sends an HTTPS request (URL) to server when he clicks the link.
+-GitHub’s server responds across the internet with the requested resource — my repository. The data will be downloaded and displayed in Bob’s computer screen.
